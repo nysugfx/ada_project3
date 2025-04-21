@@ -264,3 +264,6 @@ This A/B testing experiment provided strong evidence that the alternative design
 By implementing the recommended design changes, we can enhance the user experience, increase productivity, and better achieve the application's goal of facilitating effective data analysis. The insights gained from this experiment also provide a foundation for ongoing improvements and optimizations.
 
 The methodology and analytical approach used in this study can serve as a template for future experiments, allowing us to continuously refine and improve our application based on data-driven decisions rather than intuition alone.
+
+## Github Repository
+https://github.com/nysugfx/ada_project3.git
