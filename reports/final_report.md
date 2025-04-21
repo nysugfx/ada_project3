@@ -267,3 +267,6 @@ The methodology and analytical approach used in this study can serve as a templa
 
 ## Github Repository
 https://github.com/nysugfx/ada_project3.git
+
+## Deployed application link
+https://1r87t2-alexander-friedman.shinyapps.io/applied_ds_project_2/
